@@ -1,0 +1,44 @@
+p {
+   
+    margin-bottom: 6px;
+    margin-right: 6px;
+  }
+  
+#nav {
+    text-align: center;
+}
+
+p img {
+    float: left;
+    
+}
+
+
+ .bb, .hse{
+    text-align: left
+}
+
+
+ul {
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    
+   
+}
+
+#products
+{
+clear: both;
+}
+
+#nav, #products {
+    overflow: hidden;
+}
+
+a {
+padding: 5em, .25em;
+
+
+}
